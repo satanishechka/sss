@@ -9,5 +9,6 @@ NeuroStartUp — динамически развивающийся старта�
 3.Низкая цена
 
 Логотип:
-![logotyp](../Captures/logo.png)
+
+![lol](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
 
